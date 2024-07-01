@@ -1,3 +1,2 @@
-# Learn-Tuist
-
-만들면서 배워 보는 Tuist
+# Learn-Modular-And-Tuist
+만들면서 배워보는 모듈화와 투이스트
